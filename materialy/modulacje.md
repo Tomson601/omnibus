@@ -123,6 +123,13 @@ Modulacja ta stosowana jest np. w:
 - Wysoka przepływność i efektywność transmisji.
 - Stosowana w telekomunikacji szerokopasmowej, telewizji cyfrowej, sieciach komputerowych, systemach bezprzewodowych i komunikacji satelitarnej.  
 
-Podsumowując, każdy z tych systemów modulacji ma swoje unikalne właściwości i zastosowania. ASK jest prostsze do zrozumienia i implementacji, PSK jest bardziej odporna na zakłócenia, FSK znajduje zastosowanie w systemach RFID i telemetrii, a QAM pozwala na przesyłanie większej ilości danych w jednym symbolu i jest szeroko stosowana w różnych systemach komunikacji cyfrowej.
+Podsumowując, każdy z tych systemów modulacji ma swoje unikalne właściwości i zastosowania. ASK jest prostsze do zrozumienia i implementacji, PSK jest bardziej odporna na zakłócenia, FSK znajduje zastosowanie w systemach RFID i telemetrii, a QAM pozwala na przesyłanie większej ilości danych w jednym symbolu i jest szeroko stosowana w różnych systemach komunikacji cyfrowej.  
 
 
+Źródła:  
+- https://pl.wikipedia.org/wiki/Modulacja
+- https://pl.wikipedia.org/wiki/ASK
+- https://pl.wikipedia.org/wiki/Modulacja_QAM
+- https://pl.wikipedia.org/wiki/Frequency-Shift_Keying
+- https://pl.wikipedia.org/wiki/Phase_Shift_Keying
+- https://chat.openai.com/  
